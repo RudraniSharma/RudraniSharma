@@ -6,9 +6,6 @@
 
 I build ML systems that turn messy, technical, real-world data into models people can trust. My background spans explainable AI research, real-time data engineering, and turning standards and specifications into working, interoperable software.
 
-### 🔭 What I'm working on
-
-- **[ICD-Lens](https://github.com/RudraniSharma/icd-lens)**: an LLM + RAG pipeline that reads spacecraft-style Interface Control Documents, extracts a validated machine-readable model, flags missing or inconsistent specs, and generates deterministic parser code that a digital twin then exercises.
 
 ### 🧠 What I bring
 
@@ -33,4 +30,4 @@ MSc Information & Computer Sciences, **University of Luxembourg** · Adaptive Co
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · rudranisharma@gmail.com · 🇬🇧 English C1 · 🇫🇷 French A2 · 🇱🇺 Luxembourgish A2
+[LinkedIn](https://www.linkedin.com/in/rudrani-sharma) · rudranisharma@gmail.com · 🇬🇧 English C1 · 🇫🇷 French A2 · 🇱🇺 Luxembourgish A2
