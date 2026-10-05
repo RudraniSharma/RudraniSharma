@@ -33,7 +33,7 @@ NLP and large language models with PyTorch: retrieval-augmented generation (RAG)
 ## 📄 Publications
 
 - **Building up Explainability in Multi-layer Perceptrons for Credit Risk Modeling.** IEEE ICDSAA 2020, primary author · [paper](https://ieeexplore.ieee.org/document/9260087)
-- **A Novel Approach for Classification of Leukemia Using Artificial Bee Colony Optimization & Back-Propagation Neural Networks.** Springer
+- **A Novel Approach for Classification of Leukemia Using Artificial Bee Colony Optimization & Back-Propagation Neural Networks.** [paper](https://www.springerprofessional.de/a-novel-approach-for-the-classification-of-leukemia-using-artifi/17631200)
 
 ## 🎓 Education
 
